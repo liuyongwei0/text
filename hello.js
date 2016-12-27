@@ -11,7 +11,7 @@ class hello extends React.Component {
     return (
       <div>
         <ul>
-          <li>LIUYONGWEIHH</li>
+          <li>LIUYONGWEI</li>
         </ul>
       </div>
     );
