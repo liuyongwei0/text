@@ -9,7 +9,11 @@ class hello extends React.Component {
   
   render () {
     return (
-      <div></div>
+      <div>
+		<ul>
+		  <li>GUXIAOFAN</li>
+		</ul>
+	  </div>
     );
   }
 }
